@@ -1,0 +1,22 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: rgba(2, 81, 250, 0.37);
+}
+
+main {
+    background-color: white;
+    width: 1037px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgb(24, 22, 22);
+    border-radius: 10px 10px 10px 10px;
+}
+
+h2 {
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+}
